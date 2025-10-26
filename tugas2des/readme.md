@@ -1,5 +1,5 @@
-Device A menggunakan windows dan Device B menggunakan Ubuntu.
-Berikut yang dapat dilakukan saat di VM
+Koneksi dilakukan dengan Device A menggunakan windows dan Device B menggunakan Ubuntu.
+Berikut yang dapat dilakukan saat mengatur VM Ubuntu:
 1. Atur setting VM di network menjadi Bridged Adapter
 2. Install python & pycryptodome
 sudo apt update
