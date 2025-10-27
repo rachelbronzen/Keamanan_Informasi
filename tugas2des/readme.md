@@ -1,4 +1,4 @@
-#Simulasi Komunikasi Dua Arah Dengan Algoritma DES dan Socket TCP
+# Simulasi Komunikasi Dua Arah Dengan Algoritma DES dan Socket TCP
 
 Koneksi dilakukan dengan Device A menggunakan windows dan Device B menggunakan Ubuntu.
 Berikut yang dapat dilakukan saat mengatur VM Ubuntu:
@@ -22,4 +22,5 @@ sudo ufw allow 9999/tcp
 ```
 python3 serverb.py
 ```
+
 
