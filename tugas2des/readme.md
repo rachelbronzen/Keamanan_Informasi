@@ -1,3 +1,5 @@
+#Simulasi Komunikasi Dua Arah Dengan Algoritma DES dan Socket TCP
+
 Koneksi dilakukan dengan Device A menggunakan windows dan Device B menggunakan Ubuntu.
 Berikut yang dapat dilakukan saat mengatur VM Ubuntu:
 1. Atur setting VM di network menjadi Bridged Adapter
@@ -20,3 +22,4 @@ sudo ufw allow 9999/tcp
 ```
 python3 serverb.py
 ```
+
